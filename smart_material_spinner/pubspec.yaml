@@ -1,7 +1,7 @@
 name: smart_material_spinner
 description: "A new Flutter package project."
 version: 0.0.1
-homepage: https://github.com/chetan9357/flutter_smart_material_spinner
+homepage: https://github.com/Excelsior-Technologies-Community/flutter_smart_material_spinner
 
 environment:
   sdk: ^3.8.1
